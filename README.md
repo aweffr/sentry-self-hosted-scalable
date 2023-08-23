@@ -10,7 +10,7 @@ as the number of users grows rapidly. When you want to scale it,
 you need to do some extra work.
 
 This repository is a reproducible guide that can be used to scale sentry across machines.
-Based on this project, you can create a cluster of sentry instances and can be upgraded
+Based on this project, you can easily create a cluster of sentry instances and can be upgraded
 with the upstream in the future.
 
 If you're familiar with k8s, please refer to the
